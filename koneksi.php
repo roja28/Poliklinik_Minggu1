@@ -1,7 +1,7 @@
 <?php
 
 $databaseHost = 'localhost';
-$databaseName = 'poli2';
+$databaseName = 'poli';
 $databaseUsername = 'root';
 $databasePassword = '';
 
